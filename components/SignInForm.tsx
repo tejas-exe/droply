@@ -146,7 +146,7 @@ const SignInForm = () => {
         <p className="text-[#C3B1E1] text-center text-sm mt-6">
           Don’t have an account?{" "}
           <Link
-            href="/signup"
+            href="/sign-up"
             className="text-[#FF6EC7] hover:underline font-semibold"
           >
             Sign up
