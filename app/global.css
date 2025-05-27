@@ -1,0 +1,7 @@
+.shadow-neonPurple {
+  box-shadow: 0 0 5px 1px #a786df;
+}
+
+.shadow-neonPink {
+  filter: drop-shadow(0 0 8px #a786df);
+}
